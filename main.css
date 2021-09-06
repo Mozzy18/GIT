@@ -1,3 +1,9 @@
 h1{
     color: aqua;
 }
+
+p{
+    margin: 5px;
+    background-color: rgb(138, 240, 70);
+    color: rgb(3, 3, 63);
+}
